@@ -1,5 +1,5 @@
 
-# Browser-use
+# browser-use
 
 ## Project Description
 A project designed to enhance browser usability and performance.
